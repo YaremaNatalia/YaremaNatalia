@@ -11,15 +11,15 @@ I am highly motivated, fast learner, autonomous, and proactive Frontend develope
 
 ### Tech Stack
 
-<p align="left">
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,git,github,nodejs,vite,mongodb,vercel,vscode,emotion,styledcomponents,bootstrap,materialui,figma)](https://skillicons.dev)
-</p>
+
 
 ### GitHub Analytics
 
-<div align="center">
+
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=YaremaNatalia&show_icons=true&theme=radical)
-</div>
+
 
 ###
 
