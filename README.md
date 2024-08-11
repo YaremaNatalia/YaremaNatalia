@@ -14,7 +14,8 @@ I am highly motivated, fast learner, autonomous, and proactive Frontend develope
 ### Tech Stack
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,git,github,nodejs,vite,mongodb,vercel,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,vite,mongodb,vercel,vscode)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=emotion,styledcomponents,bootstrap,materialui,figma)](https://skillicons.dev)
 
 ### GitHub Analytics
